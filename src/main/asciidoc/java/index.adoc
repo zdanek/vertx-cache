@@ -1,4 +1,0 @@
-= Vert.x Cache Manual
-:toc: left
-
-TBD
